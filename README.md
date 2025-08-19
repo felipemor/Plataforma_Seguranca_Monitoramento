@@ -106,7 +106,7 @@ Plataforma_Seguranca_Monitoramento/
 🚀 Como Executar
 1. Clonar o Repositório
 
-git clone https://github.com/seu-usuario/plataforma-seguranca-monitoramento.git
+git clone https://github.com/felipemor/Plataforma_Seguranca_Monitoramento.git
 cd plataforma-seguranca-monitoramento
 2. Configurar Ambiente
 
