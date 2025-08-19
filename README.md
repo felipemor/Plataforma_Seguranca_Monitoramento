@@ -1,5 +1,5 @@
 
-# Plataforma Integrada de Segurança e Monitoramento
+# Plataforma Integrada de Segurança e Monitoramento - Trabalho de conclusão - Mestrado em Cybersecurity
 
 [![Python Version](https://img.shields.io/badge/python-3.11%2B-blue)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/docker-ready-blue)](https://www.docker.com/)
